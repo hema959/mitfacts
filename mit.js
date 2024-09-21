@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Cambridge',
+    city: 'Coimbatore',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 1900,
